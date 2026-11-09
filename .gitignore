@@ -1,0 +1,10 @@
+node_modules/
+.next/
+backend/.env
+.env.local
+*.log
+.DS_Store
+.idea/
+.env
+.env.*
+backend/uploads/
